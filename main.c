@@ -10,7 +10,7 @@ Initial Security()
  //Sample Code
 }
 
-<<<<<<< HEAD
+
 security
 {
  //patch
