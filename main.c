@@ -11,6 +11,7 @@ Initial Security()
 }
 
 
+
 security
 {
  //patch
@@ -20,6 +21,12 @@ security
 feature1
 {
  //Feature1
+}
+
+
+feature2
+{
+ //feature2
 }
 
 
