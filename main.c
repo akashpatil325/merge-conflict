@@ -10,9 +10,16 @@ Initial Security()
  //Sample Code
 }
 
+<<<<<<< HEAD
 security
 {
  //patch
+}
+
+
+feature1
+{
+ //Feature1
 }
 
 
